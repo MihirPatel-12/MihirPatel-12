@@ -139,4 +139,4 @@ Working on hardware-oriented AI accelerator design using Verilog/SystemVerilog a
 
 - LinkedIn: [Mihir Patel](https://www.linkedin.com/in/mihirsp12/)
 - GitHub: [MihirPatel-12](https://github.com/MihirPatel-12)
-- Email: 23bec141@nirmauni.ac.in
+- Email: mihirspatel12@gmail.com
